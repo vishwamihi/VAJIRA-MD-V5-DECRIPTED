@@ -97,7 +97,7 @@ if (config.COMMAND_TYPE === 'button') {
             _0x2d445f +
             " I'm alive now" +
             _0x208aea +
-            '\n\n*\uD83D\uDC7E Im VAJIRRA-MD whatsapp bot*\n    \n> *Version:* ' +
+            '\n\n*\uD83D\uDC7E Im VISHWA-MD whatsapp bot*\n    \n> *Version:* ' +
             require('../package.json').version +
             '\n> *Memory:* ' +
             (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) +
@@ -206,7 +206,7 @@ if (config.COMMAND_TYPE === 'button') {
           '\uD83D\uDC4B Hello ' +
           _0x5486ee +
           _0x131905 +
-          '\n\n*\uD83D\uDC7E VAJIRA-MD commands menu...*\n  \n> *Version:* ' +
+          '\n\n*\uD83D\uDC7E VISHWA-MD commands menu...*\n  \n> *Version:* ' +
           require('../package.json').version +
           '\n> *Memory:* ' +
           (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) +
@@ -216,48 +216,48 @@ if (config.COMMAND_TYPE === 'button') {
           runtime(process.uptime()) +
           '\n> *Platform:* ' +
           hostname +
-          '\n  *VAJIRA MD WHATSAPP USER BOT* \uD83D\uDCAB\n\n                     *OUR MISSION*\n\n\uD83D\uDC3CThis is the result of our teams hard work and our technical cybers team owns the bots rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances And 100 Commands And logo, thumbnail,banner Maker Commands Ai Chatbot feathers On Our Bot\n\n\n\uD83D\uDC3C The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier\n\n'
+          '\n  *VISHWA MD WHATSAPP USER BOT* \uD83D\uDCAB\n\n                     *OUR MISSION*\n\n\uD83D\uDC3CThis is the result of our teams hard work and our technical cybers team owns the bots rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances And 100 Commands And logo, thumbnail,banner Maker Commands Ai Chatbot feathers On Our Bot\n\n\n\uD83D\uDC3C The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier\n\n'
         let _0x2f7768 = [
           {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'YT CHANNEL',
-              url: 'https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol',
+              url: 'https://linktr.ee/vishwa2_2',
               merchant_url:
-                'https://youtube.com/@gamingewingyt6216?si=4Ds50i6gx8_IrZol',
+                'https://linktr.ee/vishwa2_2',
             }),
           },
           {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'FB PAGE',
-              url: 'https://www.facebook.com/WMRTECH',
-              merchant_url: 'https://www.facebook.com/WMRTECH',
+              url: 'https://linktr.ee/vishwa2_2',
+              merchant_url: 'https://linktr.ee/vishwa2_2',
             }),
           },
           {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'MY WA NUMBER',
-              url: 'https://wa.me/94719199757',
-              merchant_url: 'https://wa.me/94719199757',
+              url: 'https://linktr.ee/vishwa2_2',
+              merchant_url: 'https://linktr.ee/vishwa2_2',
             }),
           },
           {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'MY WA CHANNEL',
-              url: 'https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24',
+              url: 'https://linktr.ee/vishwa2_2',
               merchant_url:
-                'https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24',
+                'https://linktr.ee/vishwa2_2',
             }),
           },
           {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'MY BOT REPO',
-              url: 'https://github.com/VajiraTech/VAJIRA-MD',
-              merchant_url: 'https://github.com/VajiraTech/VAJIRA-MD',
+              url: 'https://linktr.ee/vishwa2_2',
+              merchant_url: 'https://linktr.ee/vishwa2_2',
             }),
           },
           {
@@ -348,7 +348,7 @@ if (config.COMMAND_TYPE === 'button') {
             '\uD83D\uDC4B Hello ' +
             _0x4e76ac +
             _0xb3e016 +
-            '\n\n*\uD83D\uDC7E VAJIRA-MD commands menu...*\n  \n> *Version:* ' +
+            '\n\n*\uD83D\uDC7E VISHWA-MD commands menu...*\n  \n> *Version:* ' +
             require('../package.json').version +
             '\n> *Memory:* ' +
             (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) +
@@ -1399,7 +1399,7 @@ cmd(
               body: 'Touch here.',
               renderLargerThumbnail: true,
               thumbnailUrl: '',
-              thumbnail: 'https://telegra.ph/file/b714e9a697c2fd0794985.jpg',
+              thumbnail: 'https://i.ibb.co/NjzJXhd/OIP.png"',
               mediaType: 2,
               mediaUrl: '',
               sourceUrl:
