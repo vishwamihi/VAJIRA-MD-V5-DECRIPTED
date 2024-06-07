@@ -27,33 +27,33 @@ if (config.LANG === 'SI') {
 }
 var imgmsg2 = ''
 if (config.LANG === 'SI') {
-  imgmsg2 = '*උදා: .banner vajira+rathnayaka*'
+  imgmsg2 = '*උදා: .banner vishwamihiranga*'
 } else {
-  imgmsg2 = '*Ex: .banner vajira+rathnayaka*'
+  imgmsg2 = '*Ex: .banner vishwamihiranga*'
 }
 var imgmsg3 = ''
 if (config.LANG === 'SI') {
-  imgmsg3 = '*උදා: .banner2 vajira+rathnayaka*'
+  imgmsg3 = '*උදා: .banner2 vishwamihiranga*'
 } else {
-  imgmsg3 = '*Ex: .banner2 vajira+rathnayaka*'
+  imgmsg3 = '*Ex: .banner2 vishwamihiranga*'
 }
 var imgmsg4 = ''
 if (config.LANG === 'SI') {
-  imgmsg4 = '*උදා: .banner3 vajira+rathnayaka*'
+  imgmsg4 = '*උදා: .banner3 vishwamihiranga*'
 } else {
-  imgmsg4 = '*Ex: .banner3 vajira+rathnayaka*'
+  imgmsg4 = '*Ex: .banner3 vishwamihirangaa*'
 }
 var imgmsg5 = ''
 if (config.LANG === 'SI') {
-  imgmsg5 = '*උදා: .banner3 vajira+rathnayaka*'
+  imgmsg5 = '*උදා: .banner3 vishwamihiranga*'
 } else {
-  imgmsg5 = '*Ex: .banner3 vajira+rathnayaka*'
+  imgmsg5 = '*Ex: .banner3 vishwamihiranga*'
 }
 var imgmsg6 = ''
 if (config.LANG === 'SI') {
-  imgmsg6 = '*උදා: .banner3 vajira+rathnayaka*'
+  imgmsg6 = '*උදා: .banner3 vishwamihiranga*'
 } else {
-  imgmsg6 = '*Ex: .banner3 vajira+rathnayaka*'
+  imgmsg6 = '*Ex: .banner3 vishwamihiranga*'
 }
 var errt = ''
 if (config.LANG === 'SI') {
@@ -72,7 +72,7 @@ _0x5726d4.pattern = 'logo'
 _0x5726d4.react = '\uD83D\uDDC3️'
 _0x5726d4.desc = 'Logo Genarate.'
 _0x5726d4.category = 'logo'
-_0x5726d4.use = '.logo vajira'
+_0x5726d4.use = '.logo vishwamihiranga'
 _0x5726d4.filename = __filename
 cmd(
   _0x5726d4,
@@ -112,7 +112,7 @@ cmd(
         return await _0x19d33a(imgmsg)
       }
       const _0x46f005 =
-          "> VAJIRA MD LOGO CREATION \uD83D\uDDBC️\n            \n> The first quality great logos share is that they're relevant to the markets their companies target. More importantly, they clearly communicate a brand's personality and identity. A primary component is the use of colors in your logo, which can trigger different emotions and show your brand's personality to consumers.",
+          "> VISHWA MD LOGO CREATION \uD83D\uDDBC️\n            \n> The first quality great logos share is that they're relevant to the markets their companies target. More importantly, they clearly communicate a brand's personality and identity. A primary component is the use of colors in your logo, which can trigger different emotions and show your brand's personality to consumers.",
         _0x19b347 = []
       _0x19b347.push({
         header: 'Select logo type want',
