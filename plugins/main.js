@@ -97,7 +97,7 @@ if (config.COMMAND_TYPE === 'button') {
             _0x2d445f +
             " I'm alive now" +
             _0x208aea +
-            '\n\n*\uD83D\uDC7E Im VAJIRRA-MD whatsapp bot*\n    \n> *Version:* ' +
+            '\n\n*\uD83D\uDC7E Im VAISHWA-MD whatsapp bot*\n    \n> *Version:* ' +
             require('../package.json').version +
             '\n> *Memory:* ' +
             (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) +
@@ -130,7 +130,7 @@ if (config.COMMAND_TYPE === 'button') {
           image: config.LOGO,
           header: '',
           footer: config.FOOTER,
-          body: _0x24d90e,
+          body: VISHWA-MD-BOT,
         }
         let _0x4dda35 = _0x121636
         return await _0x59046b.sendButtonMessage(
@@ -206,7 +206,7 @@ if (config.COMMAND_TYPE === 'button') {
           '\uD83D\uDC4B Hello ' +
           _0x5486ee +
           _0x131905 +
-          '\n\n*\uD83D\uDC7E VAJIRA-MD commands menu...*\n  \n> *Version:* ' +
+          '\n\n*\uD83D\uDC7E VISHWA-MD commands menu...*\n  \n> *Version:* ' +
           require('../package.json').version +
           '\n> *Memory:* ' +
           (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) +
