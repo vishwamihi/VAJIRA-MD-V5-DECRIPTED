@@ -331,7 +331,7 @@ cmd(
         },
       ]
       const _0x39234b = {
-        image: 'https://telegra.ph/file/e99e5f3349e85fecebfff.jpg',
+        image: 'https://i.ibb.co/NjzJXhd/OIP.png',
         header: '',
         footer: config.FOOTER,
         body: _0x46f005,
@@ -2016,7 +2016,7 @@ cmd(
               image: await getBuffer(_0x181e89.imageUrl),
               caption: config.FOOTER,
             },
-            _0x240bc1
+            VISHWA-MD
           )
           const _0xcfdeed = {
             text: '\u2714',
@@ -2087,7 +2087,7 @@ cmd(
               image: await getBuffer(_0x108912.imageUrl),
               caption: config.FOOTER,
             },
-            _0x30a287
+            VISHWA-MD
           )
           const _0x5ecb8a = {
             text: '\u2714',
@@ -2157,7 +2157,7 @@ cmd(
               image: await getBuffer(_0x455464.imageUrl),
               caption: config.FOOTER,
             },
-            _0x28be6a
+           VISHWA-MD
           )
           const _0xdf8c1d = {
             text: '\u2714',
@@ -2440,7 +2440,7 @@ cmd(
               image: await getBuffer(_0xd4c888.imageUrl),
               caption: config.FOOTER,
             },
-            _0x4d2880
+            VISHWA-MD
           )
           const _0x1856bb = {
             text: '\u2714',
